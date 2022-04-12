@@ -266,7 +266,7 @@ setTimeout(() => transferRecognizer.stopListening(), 10e3);
 ### Serialize examples from a transfer recognizer.
 
 Once examples has been collected with a transfer recognizer,
-you can export the examples in serialized form with the `serielizedExamples()`
+you can export the examples in serialized form with the `serializeExamples()`
 method, e.g.,
 
 ```js
